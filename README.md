@@ -5,7 +5,7 @@ AML proxy is a console program designed to get proxy addresses and check them fo
 
 ### Functional:
 
-- Parsing from free-proxy-list.net;
+- Parsing proxy from free-proxy-list.net;
 
 - Checking on valid;
 
