@@ -31,3 +31,4 @@ AML proxy is a console program designed to get proxy addresses and check them fo
 
 - bs4 (BeautifulSoup)
 
+> AML software. 2023(c)
