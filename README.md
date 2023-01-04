@@ -11,7 +11,7 @@ AML proxy is a console program designed to get proxy addresses and check them fo
 
 - Output in console/terminal;
 
-- Saving valid proxy in text file.
+- Saving valid proxy in text file (create proxies.txt in active dir).
 
 ## Screenshots:
 
